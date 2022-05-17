@@ -1,4 +1,4 @@
-WIP/    
+# Old, Outdated project
 
 ```
 $ npm run dashboard
